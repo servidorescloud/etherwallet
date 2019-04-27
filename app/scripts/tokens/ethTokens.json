@@ -12,6 +12,12 @@
     "type": "default"
   },
   {
+    "address": "0xcc2ad789f459bc73e5fb33364964b658a62c1ee7",
+    "symbol": "NIO",
+    "decimal": 8,
+    "type": "default"
+  },
+  {
     "address": "0xcdb7ecfd3403eef3882c65b761ef9b5054890a47",
     "symbol": "$HUR",
     "decimal": 18,
@@ -19,7 +25,8 @@
   },
   {
     "address": "0x0db8d8b76bc361bacbb72e2c491e06085a97ab31",
-    "symbol": "$IQN",
+    "symbol": "$IQ
+    ",
     "decimal": 18,
     "type": "default"
   },
